@@ -64,7 +64,7 @@ namespace SqlDataTypesApp.Controllers
 
                     if (dtResult.Rows.Count > 0)
                     {
-
+                        //Your success code
                     }
                 }
             }
